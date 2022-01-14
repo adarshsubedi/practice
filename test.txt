@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello byebye
+=======
+namaskar world
+>>>>>>> a4837e93ab4d16549f541204272aa0dd7d1657bf
